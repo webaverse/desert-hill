@@ -1,3 +1,5 @@
-{
+{ 
+  "name": "desert-hill",
+  "description": "desert-hill",
   "start_url": "desert.glb"
 }
